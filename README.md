@@ -3,6 +3,7 @@
 
 > 生活不是缺一个万能助手，而是缺几个真正在乎你的朋友。
 
+<video src="[你的视频链接.mp4](https://github.com/igloomatics/Cat-s-Eye-Alley/blob/main/%E7%8C%AB%E7%9C%BC%E5%B7%B7%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)" width="100%" controls autoplay loop muted></video>
 
 ## 介绍
 
