@@ -1,0 +1,11 @@
+# Warm Constellation
+
+## Design Philosophy
+
+This movement draws from the quiet warmth of late-afternoon light falling through a window onto a shared table — the kind of glow that makes even mundane objects feel cherished. The visual language is one of **soft geometry meeting organic presence**: perfect circles that contain imperfect, human portraits; clean lines that frame breathing, living space. Every element is placed with the painstaking precision of a master typesetter arranging letterpress blocks — each millimeter deliberate, each relationship between forms considered and reconsidered until it sings.
+
+Color exists in a restrained, carefully calibrated palette: warm ivory as the atmospheric ground, with three chromatic signatures — a muted rose, a sage green, and a twilight blue — that appear as concentrated accents rather than floods. These hues never compete; they converse across the composition like friends in different rooms of the same house. The craftsmanship lies in the exact saturation, the precise opacity — adjusted with the obsessive care of a watercolorist mixing pigments for a commissioned portrait.
+
+Space is the primary material. Vast breathing room surrounds each element, creating a rhythm of presence and absence. Forms are arranged in deliberate constellations — clustered but never crowded, related but individually distinct. Typography enters as a whispered gesture: thin, elegant strokes that float with intention. The title may carry weight through scale, but body text dissolves into near-invisible fineness, serving as texture rather than instruction. Every kerning pair, every baseline alignment reflects the hand of someone who has spent countless hours mastering the invisible architecture of visual communication.
+
+The composition must feel simultaneously systematic and intimate — as if documenting something ephemeral with scientific rigor. Circular forms anchor the piece, suggesting orbits, connections, gravitational pull between entities. Thin rules and delicate geometric accents (dots, hairlines, subtle gradients) create a scaffolding that feels architectural yet tender. The overall impression: a meticulously crafted artifact from a world where friendship has been elevated to a discipline worth studying, mapping, and preserving with museum-level care.
